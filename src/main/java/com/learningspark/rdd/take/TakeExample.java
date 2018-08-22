@@ -24,6 +24,8 @@ public class TakeExample {
 		for (String word : words) {
 			System.out.println(word);
 		}
+		
+		sc.close();
 	}
 
 }
