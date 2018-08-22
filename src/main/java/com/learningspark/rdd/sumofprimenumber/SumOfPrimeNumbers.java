@@ -2,7 +2,6 @@ package com.learningspark.rdd.sumofprimenumber;
 
 import java.util.Arrays;
 
-import org.apache.hadoop.yarn.webapp.hamlet.HamletSpec._;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.spark.SparkConf;
